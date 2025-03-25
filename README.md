@@ -4,5 +4,5 @@ nikt nie mial watpliwosci ze to wyswietla "hello world"
 ## Instalacja
 pobierasz
 klikasz 2x na index.html i masz
-##jak uzywac
+## Jak uzywac
 komputerem xd
